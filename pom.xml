@@ -8,6 +8,14 @@
     <artifactId>football-bets-shared</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
+    <scm>
+        <url>https://github.com/tamasgyorfi/BetsShared.git</url>
+        <connection>scm:git:git@github.com:tamasgyorfi/BetsShared.git</connection>
+        <developerConnection>scm:git:git@github.com:tamasgyorfi/BetsShared.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
+
+
     <build>
         <plugins>
             <plugin>
