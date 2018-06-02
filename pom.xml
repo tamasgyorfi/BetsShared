@@ -4,13 +4,13 @@
 
     <groupId>hu.bets</groupId>
     <artifactId>football-bets-shared</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.4-SNAPSHOT</version>
 
     <scm>
         <url>https://github.com/tamasgyorfi/BetsShared.git</url>
         <connection>scm:git:git@github.com:tamasgyorfi/BetsShared.git</connection>
         <developerConnection>scm:git:git@github.com:tamasgyorfi/BetsShared.git</developerConnection>
-        <tag>football-bets-shared-0.0.3</tag>
+        <tag>football-bets-shared-0.0.1</tag>
     </scm>
 
 
